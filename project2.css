@@ -1,0 +1,213 @@
+.first a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}
+.first {
+    background-color: rgb(11, 5, 49);
+    width: 100%;
+    height: 650px;
+    color: white;
+}
+.first button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    cursor:pointer;
+    overflow: hidden;
+    border: 2px solid orangered;
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 1.1em;
+}
+* {box-sizing: border-box;}
+.first input[type=text], .first select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+.first input[type=submit] {
+    background-color: orangered;
+    color: white;
+    width: 100%;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+.first form {
+    background-color: white;
+    padding: 20px;
+}
+.first i {
+    font-size: 1.5em;
+    padding: 7px;
+}
+.second {
+    margin: 30px 80px 30px 70px;
+}
+figure {
+    display: inline-block;
+    margin: 20px 40px 40px 40px;
+}
+image {
+    vertical-align: top;
+}
+figcaption {
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.third {
+    text-align: center;
+    clear: both;
+    margin: 20px 120px 50px 120px;
+}
+.third span {
+    display: inline-block;
+    margin: 14px;
+    vertical-align: middle;
+}
+.four {
+    text-align: center;
+    clear: both;
+    padding: 20px 120px 40px 120px;
+    background-color: lightgray;
+}
+.four span {
+    display: inline-block;
+    width: 22%;
+    margin: 30px 10px 30px 10px;
+}
+.four span b {
+    font-size: 2em;
+}
+.four span i {
+    font-size: 4em;
+}
+.six{
+    text-align: center;
+    clear: both;
+    background-color: lightgray;
+    padding: 50px 0 50px 0;
+}
+.six span i {
+    font-size: 3em;
+    display: inline-block;
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+.seven {
+    text-align: center;
+    clear: both;
+    padding-top: 50px;
+}
+.seven span {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    height: 60px;
+    margin: 10px 20px 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+.seven-span {
+    background-color: white;
+    padding: 20px 40px 20px 40px;
+}
+.seven button {
+    background-color: rgb(11, 5, 49);
+    cursor:pointer;
+    overflow: hidden;
+    border:none;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    font-size: 1.1em;
+    border-radius: 4px;
+}
+.eight {
+    clear: both;
+    background:rgb(236, 115, 16);
+    text-align: center;
+    color: white;
+    padding: 30px;
+    margin: 60px 0 60px 0;
+    font-size: 1.5em;
+}
+.eight span {
+    display: inline-block;
+    width: 250px;
+    margin: 20px;
+}
+.nine {
+    text-align: center;
+    clear: both;
+}
+/* #nine-icon i {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(236, 115, 16);
+    color: white;
+    border-radius: 50%;
+}
+#nine-icon i:before {
+    content: "\e610";
+    display: block;
+    line-height: 50px;
+    width: 50px;
+    text-align: center;
+} */
+.ten {
+    text-align: center;
+    clear: both;
+    background-color: lightgray;
+    padding: 40px 0 60px 0;
+}
+.ten span, .ten p {
+    display: inline-block;
+    padding: 20px;
+    vertical-align: middle;
+}
+.ten section {
+    border:5px solid rgb(236, 115, 16); 
+    width: 60%;
+    text-align: left;
+    font-size: 1.3em;
+}
+.eleven {
+    text-align: center;
+    clear: both;
+}
+.eleven input[type=text], .eleven select, .eleven textarea {
+    width: 40%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid rgb(236, 115, 16);
+    margin-top: 6px;
+    margin-bottom: 16px;
+    outline: none;
+}
+.eleven button {
+    background-color: rgb(11, 5, 49);
+    cursor:pointer;
+    overflow: hidden;
+    border:none;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    font-size: 1.1em;
+}
+footer a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+footer span {
+    padding: 5px 10px 5px 10px;;
+}
